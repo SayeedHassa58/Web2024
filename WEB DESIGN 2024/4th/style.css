@@ -1,0 +1,53 @@
+.yeahabibo {
+    color: red;
+}
+
+.nojir {
+    background-color: #008079bd;
+}
+
+.nirob {
+    font-size: 22px;
+}
+.div .nirob {
+    color: #592243;
+    font-size: 30px;
+    text-align: center;
+    font-style: italic;
+    font-weight: bold
+}
+
+body {
+    background-image: url('./img/close-up-christmas-interior-decoration.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+
+.box {
+    width: 400px;
+    text-align: center;
+    background: #008040;
+    color: red;
+    padding: 77px 77px 64px 109px;
+    margin: 147px 0 83px 183px;
+    border-radius: 60px 60px 60px 60px;
+
+}
+
+.box .A {
+
+    width: 200px;
+    text-align: center;
+    background: #e51919f5;
+    color: #100101;
+    padding: 51px 40px 50px 40px;
+    margin: 100px 60px 100px 60px;
+    border-radius: 50px 50px 50px 50px;
+
+
+
+}
+   
+ 

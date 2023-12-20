@@ -1,0 +1,120 @@
+body{
+
+    background-image:url("./img/mountain-bike-rider-top-mountain-high-quality-photo_1001743-18799.jpg") ;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+
+
+
+.borohow {
+    background: #354181;
+    padding: 20px 20px 20px 20px;
+    text-decoration: none;
+    color: #fff;
+    margin: 30px 0 0 50px;
+    display: inline-block;
+    border-radius: 18px 18px 18px 18px;
+    transition: .8s;
+}
+.borohow:hover {
+    border-radius: 28px 28px 28px 28px;
+    background: #011930;
+    box-shadow: 5px 5px 22px 0 #2c3e50 inset;
+}
+
+.tumicoto {
+    width: 70px;
+    display: inline-block;
+    height: 70px;
+    background:rgb(238, 154, 238);
+    line-height: 70px;
+    text-align: center;
+    border-radius: 50%;
+
+    transition: .8s;
+}
+.tumicoto:hover {
+    box-shadow: 50px 0 50px 0 #914343 inset;
+}
+.inst {
+    color: #f1e7e7;
+    font-size: 20px;
+    padding: 12px 6px 12px 6px;
+    border-radius: 12px 12px 12px 12px;
+    margin: 0 5px 0 2px;
+    background: brown;
+    display: inline-block;
+    text-decoration: none;
+    transition: 0.8s;
+}
+.inst:hover {
+    box-shadow: 50px 0 50px 0 #2c0101 inset;
+    border-radius: 20px 20px 20px 20px;
+
+
+}
+
+.google{
+
+    color:rgb(245, 239, 237);
+    font-size: 20px;
+    padding: 12px 6px 12px 6px;
+    margin:0 0 5px 0px;
+    background: rgb(145, 89, 89);
+    text-decoration: none;
+    display:inline-block;
+    border-radius: 12px 12px 12px 12px;
+    transition: 0.8s;
+
+}
+
+.google:hover{
+    box-shadow: 50px 0 50px 0 rgb(204, 129, 97) inset;
+    border-radius: 20px 20px 20px 20px;
+    
+
+}
+
+.whatsapp{
+
+    height:70px;
+    width:70px;
+    line-height: 70px;
+    background: rgb(108, 165, 108);
+    border-radius: 50%;
+    display:inline-block;
+    text-align: center;
+    transition: 0.8s;
+
+}
+
+.whatsapp:hover{
+
+    box-shadow: 16px 16px 32px 16px rgb(142, 233, 142) inset;
+
+}
+
+.in{
+
+    color :#f1e7e7;
+    background:#011930;
+    padding: 20px 20px 20px 20px;
+    margin:  0 5px 0 2px;
+    transition: 0.8s;
+    display: inline-block;
+    text-decoration: none;
+    border-radius: 10px 10px 10px 10px;
+
+}
+
+.in:hover{
+
+    box-shadow: 50px 0 50px 0 rgb(108, 108, 128) inset;
+    border-radius: 20px 20px 20px 20px;
+
+
+}
